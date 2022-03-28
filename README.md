@@ -1,11 +1,12 @@
-# c-plus-plus-prog Exercise
+# c-plus-plus-prog practice
+## These c++ program includes basic and advance level
 All c++ programs 
 1. **Getting started**
    - [user input]
    - [data types]
    - [operators]
    - [string]
-   - [math inbuilt functions]
+   - [math inbuilt functions](https://github.com/ErAnirudha/c-plus-plus-prog/blob/main/cmath_functions.cpp)
 2. **conditional statements**
    - [if statement]
    - [if-else statement](https://github.com/ErAnirudha/c-plus-plus-prog/blob/main/IdentifyGreaterNumber.cpp)
